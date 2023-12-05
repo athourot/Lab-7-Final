@@ -1,1 +1,23 @@
+nav {
+  background: linear-gradient(to right, #DC143C, #FFD700);
+}
+
+nav ul {
+  list-style: none;
+}
+
+nav li {
+  display: inline;
+  margin: 0 20px;
+}
+
+nav a {
+  text-decoration: none;
+  color: #fff;
+}
+
+nav ul li a:hover {
+  background-color: #3060d1;
+  color: #FFFFFF;
+}
 
