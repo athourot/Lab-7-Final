@@ -1,9 +1,11 @@
 nav {
   background: #DC143C;
+  text-align: center;
 }
 
 nav ul {
   list-style: none;
+  display: inline-block;
 }
 
 nav li {
