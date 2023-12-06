@@ -30,3 +30,10 @@ nav ul li a:hover {
   padding: 25px 20px;
 }
   
+a {
+  text-decoration: none;
+}
+
+.no-underline {
+  text-decoration: none;
+}
