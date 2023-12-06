@@ -23,38 +23,5 @@ nav ul li a:hover {
   color: #FFFFFF;
 }
 
-#container {
-  text-align: right; /* Align content to the right */
-}
-
-#sidebar {
-  width: 200px;
-  background-color: #f0f0f0;
-  display: inline-block; /* Display the sidebar as inline-block */
-}
-
-#sidebar-container {
-  padding: 20px;
-}
-
-ul {
-  list-style: none;
-  padding: 0;
-  margin: 0;
-}
-
-li {
-  margin-bottom: 10px;
-}
-
-a {
-  text-decoration: none;
-  color: #333;
-  display: block;
-  padding: 5px;
-  border-radius: 5px;
-}
-
-a:hover {
-  background-color: #ddd;
-}
+div {
+  text-align: right;
