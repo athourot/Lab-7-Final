@@ -25,6 +25,7 @@ nav ul li a:hover {
 
 .sidebar-container {
   position: fixed;
+  right: 0;
   text-align: right;
   padding: 25px 0;
 }
