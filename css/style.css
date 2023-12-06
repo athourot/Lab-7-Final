@@ -31,10 +31,10 @@ nav ul li a:hover {
   text-decoration: none;
 }
   
-a {
+.sidebar-container a {
   text-decoration: none;
 }
 
-ul {
+.sidebar-container ul {
   list-style: none;
 }
