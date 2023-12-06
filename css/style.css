@@ -23,5 +23,8 @@ nav ul li a:hover {
   color: #FFFFFF;
 }
 
-div {
+.sidebar-container {
+  position: fixed;
   text-align: right;
+  padding: 25px 0;
+  
